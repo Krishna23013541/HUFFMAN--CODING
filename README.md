@@ -1,4 +1,4 @@
-# Huffman-Coding
+# EXP-11: Huffman-Coding
 # NAME : KRISHNA KUMAR R
 # REG NO : 212223230107
 ## Aim
