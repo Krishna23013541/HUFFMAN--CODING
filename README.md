@@ -33,7 +33,7 @@ Print the characters and its huffmancode
 ## Program:
 ``` Python
 # Get the input String
-string ="ROGITH. K"
+string ="KRISHNA KUMAR R"
 
 # Create tree nodes
 class NodeTree(object):
@@ -85,7 +85,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-<img width="252" height="308" alt="image" src="https://github.com/user-attachments/assets/20a696d1-f6c1-4796-be75-81f5bc6d7b77" />
+<img width="242" height="261" alt="image" src="https://github.com/user-attachments/assets/29d311af-0e17-4328-8c9b-1829f850e1e2" />
 
 
 
